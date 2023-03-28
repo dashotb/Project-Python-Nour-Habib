@@ -1,0 +1,6 @@
+Cahier des charges du projet python:
+
+- faire l'interface game over
+- ajouter un fefe a l'ecran d'accueil
+- ajouter pvp
+- ajouter niveau destroyed half star
